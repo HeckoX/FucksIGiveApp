@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FucksIGive</string>
+    <string name="question">Do you know how many fucks I give!?</string>
+    <string name="button_reply">How many?</string>
+    <string name="zero_fucks_old_dude">None, because I\'m too old for your shit!</string>
+    <string name="zero_fucks_nicholson">Not a single god damn one, so piss off.</string>
+    <string name="zero_fucks_sound_of_music">Here, let me show you all the fucks that I give.</string>
+    <string name="one_fuck_given">Exactly one fuck, my friend, and it\'s yours.</string>
 </resources>
