@@ -39,6 +39,5 @@ public class MainActivity extends Activity {
             imageBox.setImageResource(R.drawable.dicaprio);
             textBox.setText(R.string.one_fuck_given);
         }
-
     }
 }
