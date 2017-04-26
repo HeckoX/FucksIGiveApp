@@ -7,7 +7,7 @@
     tools:context="com.example.android.fucksigive.MainActivity">
 
     <ImageView
-        android:id="@+id/android_cookie_image_view"
+        android:id="@+id/fucks_given_image_view"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
@@ -15,7 +15,7 @@
         android:src="@drawable/angrydude" />
 
     <TextView
-        android:id="@+id/status_text_view"
+        android:id="@+id/fucks_given_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
